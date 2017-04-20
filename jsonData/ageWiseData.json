@@ -1,0 +1,118 @@
+[
+    {
+        "ageGroup": "All ages",
+        "totalLiterate": 929164282
+    },
+    {
+        "ageGroup": "0-6",
+        "totalLiterate": 0
+    },
+    {
+        "ageGroup": "7",
+        "totalLiterate": 22818573
+    },
+    {
+        "ageGroup": "8",
+        "totalLiterate": 29011421
+    },
+    {
+        "ageGroup": "9",
+        "totalLiterate": 26565571
+    },
+    {
+        "ageGroup": "10",
+        "totalLiterate": 34430703
+    },
+    {
+        "ageGroup": "11",
+        "totalLiterate": 28806963   
+    },
+    {
+        "ageGroup": "12",
+        "totalLiterate": 32348816
+    },
+    {
+        "ageGroup": "13",
+        "totalLiterate": 28387474
+    },
+    {
+        "ageGroup": "14",
+        "totalLiterate": 29171219
+    },
+    {
+        "ageGroup": "15",
+        "totalLiterate": 29325198
+    },
+    {
+        "ageGroup": "16",
+        "totalLiterate": 27686321
+    },
+    {
+        "ageGroup": "17",
+        "totalLiterate": 23886851
+    },
+    {
+        "ageGroup": "18",
+        "totalLiterate": 30218875
+    },
+    {
+        "ageGroup": "19",
+        "totalLiterate": 22621208
+    },
+    {
+        "ageGroup": "20-24",
+        "totalLiterate": 114128000
+    },
+    {
+        "ageGroup": "25-29",
+        "totalLiterate": 95741848
+    },
+    {
+        "ageGroup": "30-34",
+        "totalLiterate": 77036519
+    },
+    {
+        "ageGroup": "35-39",
+        "totalLiterate": 68243458
+    },
+    {
+        "ageGroup": "40-44",
+        "totalLiterate": 53708523
+    },
+    {
+        "ageGroup": "45-49",
+        "totalLiterate": 43357916
+    },
+    {
+        "ageGroup": "50-54",
+        "totalLiterate": 32553475
+    },
+    {
+        "ageGroup": "55-59",
+        "totalLiterate": 24557099
+    },
+    {
+        "ageGroup": "60-64",
+        "totalLiterate": 20160842
+    },
+    {
+        "ageGroup": "65-69",
+        "totalLiterate": 13193461
+    },
+    {
+        "ageGroup": "70-74",
+        "totalLiterate": 8560705
+    },
+    {
+        "ageGroup": "75-79",
+        "totalLiterate": 4263104
+    },
+    {
+        "ageGroup": "80+",
+        "totalLiterate": 4920189
+    },
+    {
+        "ageGroup": "Age not stated",
+        "totalLiterate": 3459950
+    }
+]

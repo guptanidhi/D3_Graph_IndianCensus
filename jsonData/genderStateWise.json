@@ -1,0 +1,177 @@
+[
+    {
+        "state": "JAMMU & KASHMIR",
+        "graduateMale": 1706220,
+        "graduateFemale": 1063716
+    },
+    {
+        "state": "HIMACHAL PRADESH",
+        "graduateMale": 1173796,
+        "graduateFemale": 894608
+    },
+    {
+        "state": "PUNJAB",
+        "graduateMale": 3841824,
+        "graduateFemale": 3836852
+    },
+    {
+        "state": "CHANDIGARH",
+        "graduateMale": 445976,
+        "graduateFemale": 378168
+    },
+    {
+        "state": "UTTARAKHAND",
+        "graduateMale": 2275852,
+        "graduateFemale": 1733736
+    },
+    {
+        "state": "HARYANA",
+        "graduateMale": 4735396,
+        "graduateFemale": 3243004
+    },
+    {
+        "state": "NCT OF DELHI",
+        "graduateMale": 6544308,
+        "graduateFemale": 5128460
+    },
+    {
+        "state": "RAJASTHAN",
+        "graduateMale": 9847688,
+        "graduateFemale": 4258476
+    },
+    {
+        "state": "UTTAR PRADESH",
+        "graduateMale": 28345784,
+        "graduateFemale": 15247036
+    },
+    {
+        "state": "BIHAR",
+        "graduateMale": 9885832,
+        "graduateFemale": 3056760
+    },
+    {
+        "state": "SIKKIM",
+        "graduateMale": 99248,
+        "graduateFemale": 72144
+    },
+    {
+        "state": "ARUNACHAL PRADESH",
+        "graduateMale": 235292,
+        "graduateFemale": 112456
+    },
+    {
+        "state": "NAGALAND",
+        "graduateMale": 386052,
+        "graduateFemale": 274124
+    },
+    {
+        "state": "MANIPUR",
+        "graduateMale": 713788,
+        "graduateFemale": 462752
+    },
+    {
+        "state": "MIZORAM",
+        "graduateMale": 225748,
+        "graduateFemale": 155836
+    },
+    {
+        "state": "TRIPURA",
+        "graduateMale": 430224,
+        "graduateFemale": 232960
+    },
+    {
+        "state": "MEGHALAYA",
+        "graduateMale": 308080,
+        "graduateFemale": 311768
+    },
+    {
+        "state": "ASSAM",
+        "graduateMale": 2873308,
+        "graduateFemale": 1647968
+    },
+    {
+        "state": "WEST BENGAL",
+        "graduateMale": 13855908,
+        "graduateFemale": 7565188
+    },
+    {
+        "state": "JHARKHAND",
+        "graduateMale": 4159900,
+        "graduateFemale": 1968780
+    },
+    {
+        "state": "ODISHA",
+        "graduateMale": 5215948,
+        "graduateFemale": 2647608
+    },
+    {
+        "state": "CHHATTISGARH",
+        "graduateMale": 3197076,
+        "graduateFemale": 1669276
+    },
+    {
+        "state": "MADHYA PRADESH",
+        "graduateMale": 9245732,
+        "graduateFemale": 5119824
+    },
+    {
+        "state": "GUJARAT",
+        "graduateMale": 8333992,
+        "graduateFemale": 5553188
+    },
+    {
+        "state": "DAMAN & DIU",
+        "graduateMale": 35096,
+        "graduateFemale": 18300
+    },
+    {
+        "state": "DADRA & NAGAR HAVELI",
+        "graduateMale": 55520,
+        "graduateFemale": 31596
+    },
+    {
+        "state": "MAHARASHTRA",
+        "graduateMale": 22923292,
+        "graduateFemale": 15098776
+    },
+    {
+        "state": "ANDHRA PRADESH",
+        "graduateMale": 16501496,
+        "graduateFemale": 8730024
+    },
+    {
+        "state": "KARNATAKA",
+        "graduateMale": 11198320,
+        "graduateFemale": 6787484
+    },
+    {
+        "state": "GOA",
+        "graduateMale": 308040,
+        "graduateFemale": 300484
+    },
+    {
+        "state": "LAKSHADWEEP",
+        "graduateMale": 10728,
+        "graduateFemale": 6424
+    },
+    {
+        "state": "KERALA",
+        "graduateMale": 4749456,
+        "graduateFemale": 5898840
+    },
+    {
+        "state": "TAMIL NADU",
+        "graduateMale": 13981536,
+        "graduateFemale": 10310780
+    },
+    {
+        "state": "PUDUCHERRY",
+        "graduateMale": 348288,
+        "graduateFemale": 270848
+    },
+    {
+        "state": "ANDAMAN & NICOBAR ISLANDS",
+        "graduateMale": 55328,
+        "graduateFemale": 42992
+    }
+]
